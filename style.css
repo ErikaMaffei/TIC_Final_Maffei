@@ -1,0 +1,10 @@
+@keyframes animation {
+    from {color:rgb(255, 38, 92);}
+to {color:rgb(221, 179, 189);}}
+
+h1 {color:rgb(255, 38, 92);
+    animation-name: "animation";
+animation-duration: 4s;}
+body {background-color:rgb(243, 220, 231);}
+div {background-color: rgb(243, 192, 218);}
+li {font-weight:bold;}
